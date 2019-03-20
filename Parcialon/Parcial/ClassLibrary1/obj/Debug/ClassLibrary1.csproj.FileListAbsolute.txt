@@ -1,0 +1,7 @@
+C:\Users\Lab3\Desktop\Parcialon\Parcial\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Lab3\Desktop\Parcialon\Parcial\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lab3\Desktop\Parcialon\Parcial\ClassLibrary1\bin\Debug\Ejecuti.exe
+C:\Users\Lab3\Desktop\Parcialon\Parcial\ClassLibrary1\bin\Debug\Ejecuti.pdb
+C:\Users\Lab3\Desktop\Parcialon\Parcial\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Parcialon\Parcial\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Lab3\Desktop\Parcialon\Parcial\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

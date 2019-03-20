@@ -1,0 +1,8 @@
+C:\Users\Lab3\Desktop\Parcialon\Parcial\Ejecuti\bin\Debug\Ejecuti.exe.config
+C:\Users\Lab3\Desktop\Parcialon\Parcial\Ejecuti\bin\Debug\Ejecuti.exe
+C:\Users\Lab3\Desktop\Parcialon\Parcial\Ejecuti\bin\Debug\Ejecuti.pdb
+C:\Users\Lab3\Desktop\Parcialon\Parcial\Ejecuti\obj\Debug\Ejecuti.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Parcialon\Parcial\Ejecuti\obj\Debug\Ejecuti.exe
+C:\Users\Lab3\Desktop\Parcialon\Parcial\Ejecuti\obj\Debug\Ejecuti.pdb
+C:\Users\Lab3\Desktop\Parcialon\Parcial\Ejecuti\bin\Debug\ClassLibrary1.dll
+C:\Users\Lab3\Desktop\Parcialon\Parcial\Ejecuti\bin\Debug\ClassLibrary1.pdb
